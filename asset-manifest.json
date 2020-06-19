@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-list-items/static/css/main.f171ecbb.chunk.css",
+    "main.js": "/react-list-items/static/js/main.de49db4b.chunk.js",
+    "main.js.map": "/react-list-items/static/js/main.de49db4b.chunk.js.map",
+    "runtime~main.js": "/react-list-items/static/js/runtime~main.e974175d.js",
+    "runtime~main.js.map": "/react-list-items/static/js/runtime~main.e974175d.js.map",
+    "static/js/2.b1a81836.chunk.js": "/react-list-items/static/js/2.b1a81836.chunk.js",
+    "static/js/2.b1a81836.chunk.js.map": "/react-list-items/static/js/2.b1a81836.chunk.js.map",
+    "index.html": "/react-list-items/index.html",
+    "precache-manifest.d2f424ab1f1ff6e6440c479ec6c63eb8.js": "/react-list-items/precache-manifest.d2f424ab1f1ff6e6440c479ec6c63eb8.js",
+    "service-worker.js": "/react-list-items/service-worker.js",
+    "static/css/main.f171ecbb.chunk.css.map": "/react-list-items/static/css/main.f171ecbb.chunk.css.map",
+    "static/media/logo.svg": "/react-list-items/static/media/logo.5d5d9eef.svg"
+  }
+}
